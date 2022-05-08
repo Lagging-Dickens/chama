@@ -1,0 +1,17 @@
+#head{
+    text-align: center;
+    font-family: Chilanka;
+    border-bottom: 10px solid cadetblue;
+    border-bottom-right-radius: 200px;
+    border-bottom-left-radius: 200px;
+    background: antiquewhite;
+}
+body{
+    background: lightskyblue;
+}
+form{
+    border: 10px solid cadetblue;
+    border-style: dashed;
+    text-align: center;
+    margin: 100px;
+}
