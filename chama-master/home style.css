@@ -1,0 +1,33 @@
+.Heading{
+    text-align: center;
+    background: beige;
+    font-family: Chilanka;
+}
+.log{
+    text-align: center;
+    border: 10px solid cadetblue;
+    border-style: double;
+    float: right;
+    padding: 100px;
+}
+label{
+    padding: 10px;
+    margin: 50px;
+    font-size: larger;
+}
+input{
+    padding: 15px;
+    margin: 20px;
+}
+.loghead{
+    text-align: center;
+    font-size: larger;
+    font-family: DialogInput;
+    border-bottom: 15px solid cadetblue;
+    border-bottom-style: double;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.encourage{
+    font-size: xx-large;
+}
